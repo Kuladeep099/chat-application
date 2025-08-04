@@ -1,3 +1,9 @@
+Name: Malyam Kuladeep Aaradhya
+Intern ID: CT06DG3165
+Domain: Full Stack Web Development
+Duration: 6 Weeks
+Mentor: Neela Santhosh Kumar
+
 Description:
 This project is a real-time chat application built using Node.js, Express, and Socket.IO. It enables users to exchange messages instantly across multiple browser sessions or devices. The application demonstrates full-stack integration with live, event-driven communication powered by WebSockets (via Socket.IO).
 
